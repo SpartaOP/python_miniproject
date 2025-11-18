@@ -1,8 +1,8 @@
 # Student Attendance Management System
 
-**Created by: chhelu , viren , akshit , dhairya**  
+**Created by: siddh, kunj**  
 **Course: Python Programming**  
-**Date: December 2024**
+**Date: December 2025**
 
 ## 🎯 Project Overview
 
